@@ -26,7 +26,5 @@ Feel free to connect with me:
 
 > "Just like an infinite loop, my curiosity never stops!"
 
-<!-- Optional: Add some fun badges -->
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=TheLooped.VisitorBadge)
 ![GitHub followers](https://img.shields.io/github/followers/TheLooped?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/TheLooped?style=social)
